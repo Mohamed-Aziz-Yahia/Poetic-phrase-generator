@@ -14,7 +14,6 @@ let favoritePlace = "The beach"
 // The higher temperature, the more random & experimental output
 let temperature = 0.8 
 
-// Optional: delete "avatar.jpg" and add a photo of yourself
-// (remember to use "avatar.jpg" as the name of your photo)
+// Optional: use "avatar.jpg" as the name of your photo and add it to the files
 
 generateTextAndImage(name, favoriteActivity, favoritePlace, temperature)
